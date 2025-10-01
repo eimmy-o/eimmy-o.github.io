@@ -8,7 +8,7 @@ body {
 }
 
 header {
-  background: #0077b6;
+  background: hsl(163, 100%, 36%);
   color: #fff;
   padding: 20px;
   text-align: center;
@@ -29,7 +29,7 @@ section {
 }
 
 h2 {
-  color: #0077b6;
+  color: hsl(163, 100%, 36%);
   margin-bottom: 10px;
 }
 
@@ -44,7 +44,7 @@ article {
 a {
   display: inline-block;
   margin-top: 5px;
-  color: #0096c7;
+  color: hsl(163, 100%, 36%);
   text-decoration: none;
 }
 
@@ -55,6 +55,6 @@ a:hover {
 footer {
   text-align: center;
   padding: 10px;
-  background: #0077b6;
+  background: hsl(163, 100%, 36%);
   color: #fff;
 }
